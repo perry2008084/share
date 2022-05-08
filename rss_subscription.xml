@@ -4,8 +4,8 @@
     <title>Feeds of Perry from Inoreader [https://www.inoreader.com]</title>
   </head>
   <body>
-    <outline text="Kent C. Dodds" title="Kent C. Dodds" type="rss" xmlUrl="https://kentcdodds.com/blog/rss.xml" htmlUrl="https://kentcdodds.com/"/>
     <outline text="blog-web" title="blog-web">
+      <outline text="Kent C. Dodds" title="Kent C. Dodds" type="rss" xmlUrl="https://kentcdodds.com/blog/rss.xml" htmlUrl="https://kentcdodds.com/"/>
       <outline text="Paul Irish" title="Paul Irish" type="rss" xmlUrl="https://feeds.feedburner.com/paul-irish" htmlUrl="https://paulirish.com/"/>
       <outline text="John Resig" title="John Resig" type="rss" xmlUrl="http://feeds.feedburner.com/JohnResig" htmlUrl="http://ejohn.org/"/>
       <outline text="Human Who Codes" title="Human Who Codes" type="rss" xmlUrl="https://humanwhocodes.com/feeds/blog.xml" htmlUrl="https://humanwhocodes.com/"/>
